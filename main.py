@@ -135,7 +135,7 @@ bad_student.courses_in_progress += ['Python']
 bad_student.courses_in_progress += ['Java']
 bad_student.add_courses('C++')
 
-cool_reviewer = Reviewer("John", "Doe")
+cool_reviewer = Reviewer("Жора", "Рыбкин")
 cool_reviewer.courses_attached += ['Python']
 cool_reviewer.courses_attached += ['Java']
 
